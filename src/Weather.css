@@ -28,11 +28,11 @@
 .Weather .temperature {
   font-weight: bold;
   color: rgb(33, 33, 33);
-  font-size: 60px;
+  font-size: 64px;
   line-height: 64px;
+  margin-left: 5px;
   font-weight: 400;
   margin-left: 10px;
-  position: fixed;
 }
 
 .Weather img {
@@ -52,7 +52,10 @@
   font-weight: 400;
   position: relative;
   line-height: 1;
-  top: -55px;
-  display: flex;
-  justify-content: end;
+  top: -34px;
+  margin-left: 5px;
+}
+
+.Weather .unit a {
+  text-decoration: none;
 }
