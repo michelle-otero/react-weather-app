@@ -13,7 +13,7 @@ function App() {
           <a
             href="https://www.linkedin.com/in/michelle-otero-6919b3171/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Michelle Otero
           </a>{" "}
@@ -21,7 +21,7 @@ function App() {
           <a
             href="https://github.com/michelle-otero/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open source
           </a>
